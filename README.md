@@ -17,7 +17,7 @@ Steps:
 python Timesheet_reminder_oultook.py
 
 NOTE:
-- This code sends out an email each time the code is run. However, if an automatic schdeule is set to send on a desired day and time, use the following steps.
+- This code sends out an email each time the code is run. However, if you want an automatic schdeuler to send the reminder email on a desired day and time, use the following steps.
 
 *Using Windows Task Sceduler to automatically send the reminder email every Friday at 9:30 AM*
  - Follow the steps as illustated in the screenshots for Automatic scheduling(running the code every friday at 9:30 am)
@@ -30,3 +30,9 @@ NOTE:
 ![5-Enter the path of py file](https://user-images.githubusercontent.com/122895165/217017212-30993a92-ba9e-4119-9dce-e31acfd20b73.png)
 ![6-Finish](https://user-images.githubusercontent.com/122895165/217017215-51d6e067-7d9f-46ca-a9c8-8f436b2227b8.png)
 
+**Make sure to edit the list of emails in the script for the magic to happen!**
+
+_CAUTION:
+Don't Spam :) _
+
+You are welcome to contribute!!
