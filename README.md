@@ -32,8 +32,8 @@ NOTE:
 
 **Make sure to edit the list of emails in the script for the magic to happen!**
 
-_CAUTION:
-Don't Spam :) _
+**CAUTION:
+Don't Spam the actual email receiver. Test it if you need to, using your own emails Ids :)**
 
 You are welcome to contribute!!
 
