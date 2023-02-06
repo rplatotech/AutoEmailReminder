@@ -14,7 +14,7 @@ the code run is completed.
 import win32com.client as win32
 
 # add to this list, all the email IDs that needs to be reminded to fill timesheet
-list_of_emails = ['rplatotech@gmail.com', 'rohit.bhumar@platotech.com']
+list_of_emails = ['a@gmail.com', 'b@platotech.com', 'c@yahoo.com']
 
 
 def send_email_reminder():
