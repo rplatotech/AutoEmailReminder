@@ -14,7 +14,7 @@ Steps:
 - Navigate to the project folder on your terminal .\cd Outlook
 - Open Timesheet_reminder_oultook.py and add desired email list in line number 17 of the script(list_of_emails).
 - Run the CODE!!! using below command on your terminal
-python Timesheet_reminder_oultook.py
+- python Timesheet_reminder_oultook.py
 
 NOTE:
 - This code sends out an email each time the code is run. However, if you want an automatic schdeuler to send the reminder email on a desired day and time, use the following steps.
@@ -36,3 +36,5 @@ _CAUTION:
 Don't Spam :) _
 
 You are welcome to contribute!!
+
+Feel free to contact me if you need help setting up!
