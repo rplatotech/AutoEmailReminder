@@ -3,7 +3,7 @@
 Description:
 - This simple but powerful code uses win32.client library for sending Outlook emails configured on your machine.
 
-Pre-requsites:
+Pre-requisites:
 - Have MS Outlook installed, configured and open.
 - Python installed on your laptop
 - Python path added to Environment variables.(Usually automatically added when installing python)
@@ -12,9 +12,9 @@ Steps:
 - Clone the repository to your local machine.
 - Install the requirements using pip install -r requirements.txt
 - Navigate to the project folder on your terminal .\cd Outlook
-- Open Timesheet_reminder_oultook.py and add desired email list in line number 17 of the script(list_of_emails).
+- Open Timesheet_reminder_outlook.py and add desired email list in line number 17 of the script(list_of_emails).
 - Run the CODE!!! using below command on your terminal
-- python Timesheet_reminder_oultook.py
+- python Timesheet_reminder_outlook.py
 
 **_This is the output of this code_**
 ![img.png](img.png)
