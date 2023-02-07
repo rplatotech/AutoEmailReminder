@@ -17,7 +17,7 @@ Steps:
 - python Timesheet_reminder_oultook.py
 
 RESULT Window
-![img.png](img.png)
+![Output mail.png](..%2F..%2FOneDrive%20-%20PQA%2FDesktop%2FOutput%20mail.png)
 
 NOTE:
 - This code sends out an email each time the code is run. However, if you want an automatic schdeuler to send the reminder email on a desired day and time, use the following steps.
