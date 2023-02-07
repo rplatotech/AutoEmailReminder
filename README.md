@@ -23,6 +23,10 @@ NOTE:
  - Follow the steps as illustated in the screenshots for Automatic scheduling(running the code every friday at 9:30 am)
  - Open Windows Task Scheduler App. (Press Windows button > Search for 'Task Sceduler App' and follow along with the screenshots
 
+_**This is the output of the code**_
+
+![Output mail.png](..%2F..%2FOneDrive%20-%20PQA%2FDesktop%2FOutput%20mail.png)
+
 ![1-Create Task](https://user-images.githubusercontent.com/122895165/217017218-e1b02cfe-8f2e-4eb7-b0a9-8f3a30041c6c.png)
 ![2-Set it for Weekly](https://user-images.githubusercontent.com/122895165/217017199-3104c865-0a98-49ae-a8a1-57139b04ebc1.png)
 ![3-Set Friday](https://user-images.githubusercontent.com/122895165/217017205-08522fe4-25ab-4bde-882e-c10f2ca1d765.png)
