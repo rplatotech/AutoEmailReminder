@@ -16,6 +16,9 @@ Steps:
 - Run the CODE!!! using below command on your terminal
 - python Timesheet_reminder_oultook.py
 
+RESULT Window
+![img.png](img.png)
+
 NOTE:
 - This code sends out an email each time the code is run. However, if you want an automatic schdeuler to send the reminder email on a desired day and time, use the following steps.
 
