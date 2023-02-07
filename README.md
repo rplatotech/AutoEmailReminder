@@ -16,11 +16,14 @@ Steps:
 - Run the CODE!!! using below command on your terminal
 - python Timesheet_reminder_oultook.py
 
+**_This is the output of this code_**
+![img.png](img.png)
+
 NOTE:
 - This code sends out an email each time the code is run. However, if you want an automatic schdeuler to send the reminder email on a desired day and time, use the following steps.
 
-*Using Windows Task Sceduler to automatically send the reminder email every Friday at 9:30 AM*
- - Follow the steps as illustated in the screenshots for Automatic scheduling(running the code every friday at 9:30 am)
+*Using Windows Task Scheduler to automatically send the reminder email every Friday at 9:30 AM*
+ - Follow the steps as illustrated in the screenshots for Automatic scheduling(running the code every friday at 9:30 am)
  - Open Windows Task Scheduler App. (Press Windows button > Search for 'Task Sceduler App' and follow along with the screenshots
 
 ![1-Create Task](https://user-images.githubusercontent.com/122895165/217017218-e1b02cfe-8f2e-4eb7-b0a9-8f3a30041c6c.png)
