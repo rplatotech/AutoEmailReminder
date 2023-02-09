@@ -8,6 +8,7 @@ The code creates an instance of the Microsoft Outlook application using win32.Di
 For each email address in list_of_emails, the code creates a new email item, sets the recipient and subject,
 and sets the body of the email to a reminder message. The email is then sent using mail.Send().
 After sending the emails, the code run is completed.
+
 """
 
 # external library
@@ -32,4 +33,3 @@ def send_email_reminder():
 
 if __name__ == '__main__':
     send_email_reminder()
-cl
