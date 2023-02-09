@@ -1,7 +1,7 @@
 # Automatic email reminder using Python and Windows Task Scheduler!
 
 Description:
-- This simple but powerful code uses win32.client library for sending Outlook emails configured on your machine.
+- This simple but powerful code uses win32.client library for sending Outlook emails configured on your machine and openpyxl to read email id from excel sheet and send email to the destination.
 
 Pre-requisites:
 - Have MS Outlook installed, configured and open.
@@ -20,7 +20,7 @@ Steps:
 ![img.png](img.png)
 
 NOTE:
-- This code sends out an email each time the code is run. However, if you want an automatic schdeuler to send the reminder email on a desired day and time, use the following steps.
+- This code sends out an email each time the code is run. You can provide emails to excel sheet it will automatically process the email id from there and send email to those email id. However, if you want an automatic schdeuler to send the reminder email on a desired day and time, use the following steps.
 
 *Using Windows Task Scheduler to automatically send the reminder email every Friday at 9:30 AM*
  - Follow the steps as illustrated in the screenshots for Automatic scheduling(running the code every friday at 9:30 am)
