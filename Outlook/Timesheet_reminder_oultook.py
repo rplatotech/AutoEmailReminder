@@ -13,9 +13,26 @@ After sending the emails, the code run is completed.
 
 # external library
 import win32com.client as win32
+# Library for reading data from excel
+import openpyxl
 
-# add to this list, all the email IDs that needs to be reminded to fill timesheet
-list_of_emails = ['a@gmail.com', 'b@yahoo.com', ]
+# Load the workbook object
+wb = openpyxl.load_workbook('test_data.xlsx')
+
+# Select the active sheet
+sheet = wb.active
+# Get the maximum row number
+max_rows = sheet.max_row
+# Declare empty list of emails
+list_of_emails = []
+
+# Loop through each row and add the value in list
+for i in range(2, max_rows + 1):
+    cell_obj = sheet.cell(row=i, column=1)
+    list_of_emails.append(cell_obj.value)
+
+# # add to this list, all the email IDs that needs to be reminded to fill timesheet
+# list_of_emails = ['a@gmail.com', 'b@yahoo.com', ]
 
 
 def send_email_reminder():
