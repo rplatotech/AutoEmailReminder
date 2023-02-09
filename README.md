@@ -39,6 +39,6 @@ EDIT: Now the code is edited to fetch emails from your local excel sheet!
 **CAUTION:
 Don't Spam the actual email receiver. Test it if you need to, using your own emails Ids :)**
 
-You are welcome to contribute!!
+https://github.com/rplatotech/AutoEmailReminder - FORK this repo and you are welcome to contribute!!
 
 Feel free to contact me if you need help setting up!
