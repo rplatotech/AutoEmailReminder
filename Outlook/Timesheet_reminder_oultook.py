@@ -32,3 +32,4 @@ def send_email_reminder():
 
 if __name__ == '__main__':
     send_email_reminder()
+cl

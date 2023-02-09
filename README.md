@@ -34,6 +34,7 @@ NOTE:
 ![6-Finish](https://user-images.githubusercontent.com/122895165/217017215-51d6e067-7d9f-46ca-a9c8-8f436b2227b8.png)
 
 **Make sure to edit the list of emails in the script for the magic to happen!**
+EDIT: Now the code is edited to fetch emails from your local excel sheet!
 
 **CAUTION:
 Don't Spam the actual email receiver. Test it if you need to, using your own emails Ids :)**
