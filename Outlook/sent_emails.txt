@@ -1,2 +1,4 @@
 Reminder sent to email: a@gmail.com
 Reminder sent to email: b@yahoo.com
+Reminder sent to email: abc@gmail.com
+Reminder sent to email: def@platotech.com
