@@ -16,7 +16,7 @@ import win32com.client as win32
 # Library for reading data from excel
 import openpyxl
 
-# Load the workbook object
+# Load the workbook object by providing the path to the excelsheet
 wb = openpyxl.load_workbook('test_data.xlsx')
 
 # Select the active sheet
